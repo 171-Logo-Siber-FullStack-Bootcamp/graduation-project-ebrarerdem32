@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EarthDiamond</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" stroke="#231F20" transform="translate(1.000000, 7.000000)">
+            <polygon id="Stroke-1-Copy-23" points="13.0661148 0 34.3239184 0 39.0043178 2.55844156 47 10.4305694 23.5970134 37 0 10.4305694 8.97076541 2.36163836"></polygon>
+            <polyline id="Stroke-3-Copy" points="8.97076541 2.36163836 17.1803304 5 30.2029527 5 39 2.48929449"></polyline>
+            <polyline id="Stroke-4-Copy" points="0 10.1666667 12.9598377 13 33.5929615 13 47 10"></polyline>
+            <polyline id="Stroke-6-Copy" points="17.9002224 5 12.9598377 13 23.5 36.6053535"></polyline>
+            <polyline id="Stroke-8-Copy" points="30.0997776 5 34.1445568 13 23.5 37"></polyline>
+        </g>
+    </g>
+</svg>
