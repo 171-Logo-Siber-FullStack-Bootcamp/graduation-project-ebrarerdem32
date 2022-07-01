@@ -14,3 +14,4 @@
 - Winston kullanılacak.
 - Ürüne tıkladığımız zaman bir kutusu ekrana gelecek ve ürünün bilgileri yer alacak.
 - Relational veritabanı için PostgreSQL kullanılacak.
+"# eCommerce" 
